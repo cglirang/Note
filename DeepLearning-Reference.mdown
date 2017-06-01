@@ -1,0 +1,24 @@
+# Reference
+
+## Concept
+
+1. [直观理解信息论](http://yugnaynehc.github.io/2017/01/02/visual-information-theory/) *信息论可以为很多概念提供理论基础*
+2. [线性代数的本质 - 系列合集](http://www.bilibili.com/video/av6731067/)
+3. [机器学习速成教程](http://geek.csdn.net/news/detail/133427) *机器学习的一些基本概念*
+4. [Cross-Validation（交叉验证）详解](https://zhuanlan.zhihu.com/p/24825503)
+5. [Google软件工程师解读：深度学习的activation function哪家强？](http://www.leiphone.com/news/201702/8ZNXNmPo7o2O53Ya.html) *各种activation function的优缺点比较*
+6. [深度学习中消失的梯度](http://www.cnblogs.com/maybe2030/p/6336896.html)
+7. [为什么梯度反方向是函数值下降最快的方向？](https://zhuanlan.zhihu.com/p/24913912)
+8. [什么是张量 (tensor)？ - 回答作者: 知乎用户](http://zhihu.com/question/20695804/answer/43265860) *装B必备*
+
+## Practice
+
+1. [一文学会用 Tensorflow 搭建神经网络](http://www.jianshu.com/p/e112012a4b2d) *简单易懂的Tensorflow编码教程*
+2. [深度学习网络调参技巧](https://zhuanlan.zhihu.com/p/24720954)
+3. [深度机器学习中的batch的大小对学习效果有何影响？ - 回答作者: 程引](http://zhihu.com/question/32673260/answer/71137399)
+
+## Other
+
+1. [Python 2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) *Python面向游标卡尺编程*
+2. [深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808)
+3. [普通程序员如何向人工智能靠拢？ - 回答作者: SimonS](http://zhihu.com/question/51039416/answer/134564100)
